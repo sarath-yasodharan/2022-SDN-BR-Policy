@@ -1,5 +1,5 @@
 
-Python implementation of BR-EFP
+Python implementation of the BR-EFP policy
 
 In general_network_simulation.py, provide the network parameters (lines 7--11):
 
